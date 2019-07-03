@@ -1,0 +1,25 @@
+Image type: AOSP
+
+Footer with "SEAndroid" type detected.
+
+Splitting image to "split_img/" . . .
+
+BOARD_KERNEL_CMDLINE androidboot.selinux=permissive androidboot.selinux=permissive
+BOARD_KERNEL_BASE 10000000
+BOARD_NAME SRPPE16A000KU
+BOARD_PAGE_SIZE 2048
+BOARD_HASH_TYPE sha1
+BOARD_KERNEL_OFFSET 00008000
+BOARD_RAMDISK_OFFSET 01000000
+BOARD_SECOND_OFFSET 00f00000
+BOARD_TAGS_OFFSET 00000100
+BOARD_OS_VERSION 8.1.0
+BOARD_OS_PATCH_LEVEL 2018-12
+BOARD_DT_SIZE 245760
+
+Unpacking ramdisk to "ramdisk/" . . .
+
+Compression used: gzip
+9819 blocks
+
+Done!
